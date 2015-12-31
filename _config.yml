@@ -1,7 +1,7 @@
 name: Jchiatt
 favicon: null
-layout_spectrum: 0.38161543500609696
-typography_spectrum: 0.29620015108957887
+layout_spectrum: 1
+typography_spectrum: 0.2678
 title: J.C. Hiatt
 cta:
   domain: null
@@ -23,7 +23,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.3562028573360294
-  lightness: 0.9466090658679605
-  saturation: 0.21582557796500623
+  lightness: 0.875
+  saturation: 0
   rhythmicContrast: 0.9485125548671931
 purpose: []
